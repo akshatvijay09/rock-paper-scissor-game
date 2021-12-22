@@ -1,5 +1,4 @@
 import random
-con = 1
 while(con):
     def game(comp, plyr):
         if comp == plyr:
